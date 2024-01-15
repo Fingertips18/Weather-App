@@ -1,0 +1,14 @@
+const String kImg1 = "assets/images/1.png";
+const String kImg2 = "assets/images/2.png";
+const String kImg3 = "assets/images/3.png";
+const String kImg4 = "assets/images/4.png";
+const String kImg5 = "assets/images/5.png";
+const String kImg6 = "assets/images/6.png";
+const String kImg7 = "assets/images/7.png";
+const String kImg8 = "assets/images/8.png";
+const String kImg9 = "assets/images/9.png";
+const String kImg10 = "assets/images/10.png";
+const String kImg11 = "assets/images/11.png";
+const String kImg12 = "assets/images/12.png";
+const String kImg13 = "assets/images/13.png";
+const String kImg14 = "assets/images/14.png";
